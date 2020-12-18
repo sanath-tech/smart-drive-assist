@@ -15,3 +15,5 @@ Vehicle Maintenance Prediction, Lane and Drowsiness Detection using Machine Lear
 **Lane Detection**  
 1.Using a system which can effectively identify the lane on the smooth roads.   
 2.For identification of lane lines Gradient and HLR thresholding are used.  
+
+For more info, read https://www.ijcaonline.org/archives/volume175/number37/sanath-2020-ijca-920948.pdf

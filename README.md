@@ -18,6 +18,6 @@ Vehicle Maintenance Prediction, Lane and Drowsiness Detection using Machine Lear
 
 For more info, read https://www.ijcaonline.org/archives/volume175/number37/sanath-2020-ijca-920948.pdf  
 
-![](data/lane-detect.mp4)  
+![](data/lane-detect.gif)  
 
 ![](data/drowsiness_detector_demo.gif)  
